@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BirbalBoro
 - 👀 I’m interested in UI/UX, Front End Web Development and Software Development.
 - 🌱 I’m currently learning UI/UX design and front end web development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me out in "birbalboro44@gmail.com"
 
 <!---
